@@ -7,7 +7,7 @@ with open('grupos.txt', 'r') as file:
 
 for grupo_nome in grupos:
     grupo_nome = grupo_nome.strip()
-    mensagem = 'Teste MEUS AMIGOS grandes Aîgósa'  
+    mensagem = 'sua mensgame'  
 
     pyautogui.click(-1151, 435, duration=0.5)
     
